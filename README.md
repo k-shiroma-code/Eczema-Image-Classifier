@@ -14,5 +14,3 @@ It is intended as a **portfolio and research project** — not a diagnostic tool
 - Modular pipeline for reproducibility (data → preprocessing → training → evaluation → interpretability)  
 
 ---
-
-## Project Structure
